@@ -3,12 +3,12 @@
     "email": "giboirelou@gmail.com",
     "name": "Lou Giboire",
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocJS7hFu-d0duwOmmk28pgdp6lwLhaqX24OTI8f77frF1S02Hps=s96-c",
-    "role": "owner"
+    "role": ["owner"]
   },
   {
     "email": "paouf69@gmail.com",
     "name": "Pa_Ouf",
     "picture": "https://lh3.googleusercontent.com/a/ACg8ocKSwUUgzQSwuwd_I7nsz7SVZdQqosLOJKwn8gxz3wonvREK2R4=s96-c",
-    "role": "member"
+    "role": ["member"]
   }
 ]
